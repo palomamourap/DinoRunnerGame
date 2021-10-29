@@ -18,5 +18,5 @@
   .
   <br>
   
-  <img src="https://raw.githubusercontent.com/palomamourap/DinoRunnerGame/main/assets/demo1.png"> <br>
+  <img src="https://raw.githubusercontent.com/palomamourap/DinoRunnerGame/main/assets/demo1.png"> <br><br>
   <img src="https://raw.githubusercontent.com/palomamourap/DinoRunnerGame/main/assets/demo2.png">
